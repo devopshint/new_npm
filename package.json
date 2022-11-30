@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devopshint/new_npm/issues"
   },
+  "publishConfig": {
+    "@devopshint:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/devopshint/new_npm#readme"
 }
